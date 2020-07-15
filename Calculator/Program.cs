@@ -24,7 +24,8 @@ namespace Calculator
                     case "1": 
                     // var input1 = Console.ReadLine();
                     // var input2 = Console.ReadLine();
-                        
+                        System.Console.WriteLine("Please input two numbers to add"); //prompts the user
+
                         var inputAdd1 = double.Parse(Console.ReadLine()); //explicit parsing with 0
                         double inputAdd2;
                         double.TryParse(Console.ReadLine(), out inputAdd2); //explicit parsing with boolean exception
@@ -33,8 +34,11 @@ namespace Calculator
                         break;
 
                     case "2":
-                        double inputSub1;
-                        double inputSub2;
+
+                        System.Console.WriteLine("Please input two numbers to subtract"); 
+                        
+                        double inputSub1; //the minuend
+                        double inputSub2; //the subtrahend
 
                         if (double.TryParse(Console.ReadLine(), out inputSub1))
                         {
@@ -56,8 +60,64 @@ namespace Calculator
                         Subtract(inputSub1,inputSub2);
                         break;
                     case "3":
+                        double inputMult1;
+                        double inputMult2;
+                        System.Console.WriteLine("Please input two numbers to multiply");
+
+                        if (double.TryParse(Console.ReadLine(), out inputMult1))
+                        {
+                            System.Console.WriteLine("valid");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("not valid");
+                        }
+
+                        if (double.TryParse(Console.ReadLine(), out inputMult2))
+                        {
+                            System.Console.WriteLine("valid");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("not valid");
+                        }
+
+                        Multiply(inputMult1,inputMult2);
+
                         break;
                     case "4":
+                        double inputDiv1;
+                        double inputDiv2;
+                        System.Console.WriteLine("please chose the Dividend");
+
+                        if (double.TryParse(Console.ReadLine(), out inputDiv1))
+                        {
+                            System.Console.WriteLine("valid");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("not valid");
+                        }
+                        System.Console.WriteLine("Please choose the Divisor");
+
+                        if (double.TryParse(Console.ReadLine(), out inputDiv2))
+                        {
+                            if (inputDiv2 != 0)
+                            {
+                                System.Console.WriteLine("valid");
+                            }
+                            else
+                            {
+                                System.Console.WriteLine("not valid");
+                            }
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("not valid");
+                        }
+
+                        divide(inputDiv1,inputDiv2);
+
                         break;
                     case "5":
                         stay = false;
@@ -92,14 +152,25 @@ namespace Calculator
         System.Console.WriteLine("Your result is: " + result);
     }
 
-    static void Multiply()
+    static void Multiply(double operand1, double operand2)
     {
+        var result = operand1 * operand2;
+        System.Console.WriteLine($"Your result is: {result}");
+
 
     }
 
-    static void divide()
+    static void divide(double operand1, double operand2)
     {
-
+        if (operand2 != 0)
+        {
+            var result = operand1 / operand2;
+            System.Console.WriteLine($"Your result is: {result}");
+        }
+        else
+        {
+            System.Console.WriteLine("You need to enter a number that is not zero for the divsor!");
+        }
     }
     }
 
