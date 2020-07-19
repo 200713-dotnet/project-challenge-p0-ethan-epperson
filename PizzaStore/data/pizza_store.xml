@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pizzas>
+    <Pizza>
+      <Size>L</Size>
+      <Crust>Stuffed</Crust>
+      <Toppings>
+        <string>cheese</string>
+      </Toppings>
+    </Pizza>
+    <Pizza>
+      <Size>L</Size>
+      <Crust>Stuffed</Crust>
+      <Toppings>
+        <string>Pepperoni</string>
+      </Toppings>
+    </Pizza>
+    <Pizza>
+      <Size>L</Size>
+      <Crust>Stuffed</Crust>
+      <Toppings>
+        <string>Pinapple</string>
+      </Toppings>
+    </Pizza>
+    <Pizza>
+      <Size>L</Size>
+      <Crust>Stuffed</Crust>
+      <Toppings>
+        <string>Custom</string>
+      </Toppings>
+    </Pizza>
+  </Pizzas>
+</Order>
