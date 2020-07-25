@@ -16,20 +16,43 @@ namespace PizzaStore.Client
             System.Console.WriteLine("Best Pizza in the World");
             System.Console.WriteLine();
 
+            string name1 = "StoreOne";
+            string name2 = "StoreTwo";
+            System.Console.WriteLine("Which Store would you like to use?");
+            System.Console.WriteLine($"Press 1 for {name1}");
+            System.Console.WriteLine($"Press 2 for {name2}");
+
            //var cart = new string[3];
 
             List<Pizza> cart = new List<Pizza>();
             //Menu(cart);
             var startup = new Startup();
             var user = new User();
-            var store = new Store();
-            try
+            var store = new Store(name1);
+            var store2 = new Store(name2);
+            int storeSelect;
+
+            int.TryParse(Console.ReadLine(), out storeSelect);
+            if (storeSelect == 1)
             {
-                Menu(startup.CreateOrder(user, store));
-            }
-            catch(Exception ex)
+                try
+                {
+                    Menu(startup.CreateOrder(user, store));
+                }
+                catch(Exception ex)
+                {
+                    System.Console.WriteLine(ex);
+                }
+            } else if (storeSelect == 2)
             {
-                System.Console.WriteLine(ex);
+                try
+                {
+                    Menu(startup.CreateOrder(user, store2));
+                }
+                catch(Exception ex)
+                {
+                    System.Console.WriteLine(ex);
+                }
             }
         }
 

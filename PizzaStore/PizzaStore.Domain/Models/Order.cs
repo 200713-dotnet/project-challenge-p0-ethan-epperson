@@ -1,10 +1,13 @@
 using System.Collections.Generic;
+using System;
 
 namespace PizzaStore.Domain.Models
 {
     public class Order
     {
-        public List<Pizza> Pizzas { get;}
+        public List<Pizza> Pizzas { get; set;}
+
+        public DateTime DateOrdered {get; set;}
         
         public void CreatePizza(string size, string crust, List<string> toppings)
         {

@@ -12,7 +12,9 @@ namespace PizzaStore.Domain.Models
         string imageUrl = "";
         private const double _diameter = 0;
         private static string _name = "pizza";
-        private List<string> _toppings = new List<string>();
+        public List<string> _toppings = new List<string>();
+
+        
 
 
         public string Size = "";
@@ -21,9 +23,11 @@ namespace PizzaStore.Domain.Models
         {
             get
             {
-                return _toppings;
+                return Toppings1;
             }
         }
+
+        public List<string> Toppings1 { get => _toppings; set => _toppings = value; }
 
 
         // BEHAVIOR

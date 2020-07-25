@@ -10,7 +10,7 @@ namespace PizzaStore.Testing.Tests
         public void Test_CreateOrder()
         {
             var user = new User();
-            var store = new Store();
+            var store = new Store("storeOne");
             var sut = new Startup();
 
 
