@@ -31,13 +31,42 @@ namespace PizzaStore.Client
         }
         internal static void PrintMenu()
         {
-            System.Console.WriteLine("Select 1 for Cheese Pizza");
-            System.Console.WriteLine("Select 2 for Pepperoni Pizza");
-            System.Console.WriteLine("Select 3 for Hawaiian Pizza");
+            System.Console.WriteLine();
+            System.Console.WriteLine("Select 1 for Pepperoni and Sausage Pizza");
+            System.Console.WriteLine("Select 2 for Anchovies and Mushroom Pizza");
+            System.Console.WriteLine("Select 3 for Pineapple and Ham Pizza");
             System.Console.WriteLine("Select 4 for Custom Pizza");
             System.Console.WriteLine("Select 5 for display Pizza");
             System.Console.WriteLine("Select 6 to exit");
+            //System.Console.WriteLine();
+        }
+
+        internal static void PrintSizes()
+        {
             System.Console.WriteLine();
+            System.Console.WriteLine("Select 1 for a Small Pizza");
+            System.Console.WriteLine("Select 2 for a Medium Pizza");
+            System.Console.WriteLine("Select 3 for a Large Pizza");
+        }
+
+        internal static void PrintCrust()
+        {
+            System.Console.WriteLine();
+            System.Console.WriteLine("Select 1 for Thin Crust");
+            System.Console.WriteLine("Select 2 for Regular Crust");
+            System.Console.WriteLine("Select 3 for Deep dish Crust");
+        }
+
+        internal static void PrintToppings()
+        {
+            System.Console.WriteLine();
+            System.Console.WriteLine("Select 1 for Pepperoni");
+            System.Console.WriteLine("Select 2 for Sausage");
+            System.Console.WriteLine("Select 3 for Pineapple");
+            System.Console.WriteLine("Select 4 for Ham");
+            System.Console.WriteLine("Select 5 for Bacon");
+            System.Console.WriteLine("Select 6 when you are done");
+            
         }
     }
 }

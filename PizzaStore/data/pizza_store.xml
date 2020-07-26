@@ -2,32 +2,46 @@
 <Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Pizzas>
     <Pizza>
-      <Size>L</Size>
-      <Crust>Stuffed</Crust>
-      <Toppings>
-        <string>cheese</string>
-      </Toppings>
-    </Pizza>
-    <Pizza>
-      <Size>L</Size>
-      <Crust>Stuffed</Crust>
+      <_toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </_toppings>
+      <Size>Large</Size>
+      <Crust>Regular</Crust>
       <Toppings>
         <string>Pepperoni</string>
+        <string>Sausage</string>
       </Toppings>
+      <Toppings1>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings1>
     </Pizza>
     <Pizza>
-      <Size>L</Size>
-      <Crust>Stuffed</Crust>
+      <_toppings>
+        <string>Bacon</string>
+        <string>Bacon</string>
+        <string>Ham</string>
+        <string>Sausage</string>
+        <string>Pepperoni</string>
+      </_toppings>
+      <Size>Medium</Size>
+      <Crust>Regular</Crust>
       <Toppings>
-        <string>Pinapple</string>
+        <string>Bacon</string>
+        <string>Bacon</string>
+        <string>Ham</string>
+        <string>Sausage</string>
+        <string>Pepperoni</string>
       </Toppings>
-    </Pizza>
-    <Pizza>
-      <Size>L</Size>
-      <Crust>Stuffed</Crust>
-      <Toppings>
-        <string>Custom</string>
-      </Toppings>
+      <Toppings1>
+        <string>Bacon</string>
+        <string>Bacon</string>
+        <string>Ham</string>
+        <string>Sausage</string>
+        <string>Pepperoni</string>
+      </Toppings1>
     </Pizza>
   </Pizzas>
+  <DateOrdered>0001-01-01T00:00:00</DateOrdered>
 </Order>
