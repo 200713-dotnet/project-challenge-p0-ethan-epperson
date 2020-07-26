@@ -61,6 +61,7 @@ namespace PizzaStore.Client
         static void Menu(Order order)
             {
                 var exit = false;
+                //double totalCost = 0;
 
                 do
                 {   
@@ -85,7 +86,7 @@ namespace PizzaStore.Client
                             switch (selectSize)
                             {
                                 case 1:
-                                    chosenSize = "Small";
+                                    chosenSize = "Small";                        
                                     break;
 
                                 case 2:
@@ -96,7 +97,7 @@ namespace PizzaStore.Client
                                     break;
                                 default:
                                     System.Console.WriteLine();
-                                    System.Console.WriteLine("Uhh... so... a regular Medium then.");
+                                    System.Console.WriteLine("Uhh... so... a Medium then.");
                                     chosenSize = "Medium";
                                     break;
                             }
@@ -162,7 +163,7 @@ namespace PizzaStore.Client
                                     break;
                                 default:
                                     System.Console.WriteLine();
-                                    System.Console.WriteLine("Uhh... so... a regular Medium then.");
+                                    System.Console.WriteLine("Uhh... so... a Medium then.");
                                     chosenSize = "Medium";
                                     break;
                             }
@@ -224,7 +225,7 @@ namespace PizzaStore.Client
                                     break;
                                 default:
                                     System.Console.WriteLine();
-                                    System.Console.WriteLine("Uhh... so... a regular Medium then.");
+                                    System.Console.WriteLine("Uhh... so... a Medium then.");
                                     chosenSize = "Medium";
                                     break;
                             }
@@ -325,14 +326,43 @@ namespace PizzaStore.Client
                                 DisplayCart(order);
                             break;
                         case 6:
+                            int orderSize = order.Pizzas.Count;
+                            if(orderSize > 0)
+                            {
+                                System.Console.WriteLine("Which pizza do you want to remove?");
+                                DisplayCart(order);
+
+                                int selectRemove;
+                                System.Console.WriteLine(orderSize);
+                                int.TryParse(Console.ReadLine(), out selectRemove);
+                                if (selectRemove <= orderSize && selectRemove > 0)
+                                {
+                                    order.DestroyPizza(selectRemove);
+                                }
+                                else
+                                {
+                                    System.Console.WriteLine();
+                                    System.Console.WriteLine("Sorry we didn't understand that.");
+                                }
+                            }
+                            else
+                            {
+                                System.Console.WriteLine();
+                                System.Console.WriteLine("You need to order a pizza before you can remove one.");
+                            }
+
+
+                            break;
+                        case 7:
                             var fmw = new FileManager();
                             fmw.Write(order);
                             System.Console.WriteLine("goodbye!");
                             exit = true;
                             break;
-                        case 7:
+                        case 8:
                             var fmr = new FileManager();
                             DisplayCart(fmr.Read());
+                            
                             break;
                             
                         
@@ -340,14 +370,25 @@ namespace PizzaStore.Client
                 } while (!exit);
                 
             }
+        
         static void DisplayCart(Order order)
         {
+            double totalPrice = 0;
+            int indexNumber = 0;
             foreach(var pizza in order.Pizzas)
             {
+                indexNumber = indexNumber + 1;
                 System.Console.WriteLine();
+                System.Console.WriteLine($"#{indexNumber}");
                 System.Console.WriteLine(pizza);
+                System.Console.WriteLine($"${pizza.ComputePricing()}.00");
+                totalPrice = totalPrice + pizza.ComputePricing();
                 
             }
+            System.Console.WriteLine();
+            System.Console.WriteLine($"For a total of ${totalPrice}.00");
+            System.Console.WriteLine();
+
         }
         
     }

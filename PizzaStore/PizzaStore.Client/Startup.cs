@@ -36,17 +36,18 @@ namespace PizzaStore.Client
             System.Console.WriteLine("Select 2 for Anchovies and Mushroom Pizza");
             System.Console.WriteLine("Select 3 for Pineapple and Ham Pizza");
             System.Console.WriteLine("Select 4 for Custom Pizza");
-            System.Console.WriteLine("Select 5 for display Pizza");
-            System.Console.WriteLine("Select 6 to exit");
+            System.Console.WriteLine("Select 5 to display your order");
+            System.Console.WriteLine("Select 6 to remove Pizza");
+            System.Console.WriteLine("Select 7 to exit");
             //System.Console.WriteLine();
         }
 
         internal static void PrintSizes()
         {
             System.Console.WriteLine();
-            System.Console.WriteLine("Select 1 for a Small Pizza");
-            System.Console.WriteLine("Select 2 for a Medium Pizza");
-            System.Console.WriteLine("Select 3 for a Large Pizza");
+            System.Console.WriteLine("Select 1 for a Small Pizza for $5.00");
+            System.Console.WriteLine("Select 2 for a Medium Pizza for $8.00");
+            System.Console.WriteLine("Select 3 for a Large Pizza for $12.00");
         }
 
         internal static void PrintCrust()
