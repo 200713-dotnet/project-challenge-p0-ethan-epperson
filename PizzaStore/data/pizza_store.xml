@@ -3,786 +3,306 @@
   <Pizzas>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
       <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
+      <Size>Large</Size>
+      <Crust>Deepdish</Crust>
       <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings>
       <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings1>
-    </Pizza>
-    <Pizza>
-      <_toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </_toppings>
-      <Size>Small</Size>
-      <Crust>Thin</Crust>
-      <Toppings>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
-      </Toppings>
-      <Toppings1>
-        <string>Pepperoni</string>
-        <string>Sausage</string>
+        <string>Pineapple</string>
+        <string>Ham</string>
       </Toppings1>
     </Pizza>
     <Pizza>
@@ -799,6 +319,54 @@
       <Toppings1>
         <string>Pineapple</string>
         <string>Ham</string>
+      </Toppings1>
+    </Pizza>
+    <Pizza>
+      <_toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </_toppings>
+      <Size>Small</Size>
+      <Crust>Thin</Crust>
+      <Toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings>
+      <Toppings1>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings1>
+    </Pizza>
+    <Pizza>
+      <_toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </_toppings>
+      <Size>Small</Size>
+      <Crust>Thin</Crust>
+      <Toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings>
+      <Toppings1>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings1>
+    </Pizza>
+    <Pizza>
+      <_toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </_toppings>
+      <Size>Small</Size>
+      <Crust>Thin</Crust>
+      <Toppings>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
+      </Toppings>
+      <Toppings1>
+        <string>Pepperoni</string>
+        <string>Sausage</string>
       </Toppings1>
     </Pizza>
   </Pizzas>
