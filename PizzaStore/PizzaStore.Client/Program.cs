@@ -356,14 +356,18 @@ namespace PizzaStore.Client
                         case 7:
                             var fmw = new FileManager();
                             fmw.Write(order);
+                            
+                            break;
+                        case 8:
                             System.Console.WriteLine("goodbye!");
                             exit = true;
                             break;
-                        case 8:
+                        case 9:
                             var fmr = new FileManager();
                             DisplayCart(fmr.Read());
-                            
                             break;
+                        
+                        
                             
                         
                     }

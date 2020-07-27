@@ -38,7 +38,9 @@ namespace PizzaStore.Client
             System.Console.WriteLine("Select 4 for Custom Pizza");
             System.Console.WriteLine("Select 5 to display your order");
             System.Console.WriteLine("Select 6 to remove Pizza");
-            System.Console.WriteLine("Select 7 to exit");
+            System.Console.WriteLine("Select 7 to save order");
+            System.Console.WriteLine("Select 8 to exit");
+            System.Console.WriteLine("Select 9 to load order");
             //System.Console.WriteLine();
         }
 
