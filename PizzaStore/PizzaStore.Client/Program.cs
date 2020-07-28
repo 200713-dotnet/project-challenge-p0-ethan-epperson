@@ -333,7 +333,7 @@ namespace PizzaStore.Client
                                 DisplayCart(order);
 
                                 int selectRemove;
-                                System.Console.WriteLine(orderSize);
+                                //System.Console.WriteLine(orderSize);
                                 int.TryParse(Console.ReadLine(), out selectRemove);
                                 if (selectRemove <= orderSize && selectRemove > 0)
                                 {
